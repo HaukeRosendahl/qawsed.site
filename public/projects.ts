@@ -33,4 +33,16 @@ export const projects: Project[] = [
     "source": "https://github.com/hawk-de/nutzloses-netz-simonster12",
     "url": "https://frogchestra.site/"
 }
+	{
+		title: "Trash-Collector",
+		description: "Trash-Collector is a game where you control a spaceship. Your mission is to get rid of all the trash in space. You do that by shooting the trash with a laser.",
+		authors: [
+			{
+				name: "Hauke Rosendahl",
+				github: "https://github.com/HaukeRosendahl",
+			},
+		],
+		source: "https://github.com/HaukeRosendahl/trash-collector",
+		url: "https://trash-collector.art",
+	},
 ];
